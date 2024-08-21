@@ -1,1 +1,1 @@
-Folder contains android application for fall detection, while python notebook explores solving a dataset of falls through a Random Forest classifier. Application currently on threshold model, goal it to have the app classify through RF instead.
+The folder contains an Android application for fall detection, while the Python notebook explores solving a dataset of falls through a Random Forest classifier. The application is currently on a threshold model, the goal is to have the app classify through RF instead.
